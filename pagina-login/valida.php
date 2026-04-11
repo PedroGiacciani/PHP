@@ -1,6 +1,6 @@
 <?php
-    $userMaster = 'pedro@gmail.com';
-    $passMaster = 'pedro123';
+    $userMaster = 'admin@gmail.com';
+    $passMaster = 'admin123';
 
     $email = $_POST['email'];
     $senha = $_POST['senha'];

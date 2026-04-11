@@ -7,5 +7,6 @@
 </head>
 <body>
     <h1>Página inicial</h1>
+    <a href="login.php">Voltar</a>
 </body>
 </html>
